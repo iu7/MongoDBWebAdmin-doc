@@ -1,4 +1,8 @@
 MongoDBWebAdmin-doc
 ===================
 
-doc MongoDBWebAdmin
+верстаем в LaTeX
+ - ТЗ
+ - РПЗ
+ - Презентация
+ - Спека
