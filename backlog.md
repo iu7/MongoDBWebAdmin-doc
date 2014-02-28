@@ -1,27 +1,29 @@
 Конкуренты:
- - MongoDB Management Service https://mms.mongodb.com/
- - Robomongo http://robomongo.org/
- - Edda https://github.com/10gen-labs/edda http://blog.mongodb.org/post/28053108398/edda-a-log-visualizer-for-mongodb
- - Fluentd http://fluentd.org/ 
- - Fang of Mongo https://github.com/Fiedzia/Fang-of-Mongo
- - UMongo http://edgytech.com/umongo/
- - MongoExplorer http://mongoexplorer.com/
- - MongoHub https://github.com/fotonauts/MongoHub-Mac
- - MongoVision https://code.google.com/p/mongo-vision/
- http://blog.mongovue.com/
- https://github.com/Imaginea/mViewer
- http://www.phpmoadmin.com/
- http://www.rockmongo.com/
- https://github.com/FlaPer87/meclipse
- https://github.com/bagwanpankaj/humongous
- https://code.google.com/a/eclipselabs.org/p/mongodb-oda-birt-plugin/
- http://mongobird.citsoft.net/
- http://mongoowl.citsoft.net/
- https://github.com/argon/Opricot-MongoConsole
- ---
- http://www.nucleonsoftware.com/
- http://www.spviewer.com/mongodbpumper.html
- http://mariussoutier.com/products/mongodb-app.html
+
+| name | homepage | code |
+| ------------- | ----------- | ----------- |
+| MongoDB Management Service  | https://mms.mongodb.com/ | |
+| Robomongo | http://robomongo.org/ |  |
+| Edda | http://blog.mongodb.org/post/28053108398/edda-a-log-visualizer-for-mongodb | https://github.com/10gen-labs/edda |
+| Fluentd | http://fluentd.org/ | |
+| Fang of Mongo | | https://github.com/Fiedzia/Fang-of-Mongo |
+| UMongo | http://edgytech.com/umongo/ | |
+| MongoExplorer | http://mongoexplorer.com/ | |
+| MongoHub | | https://github.com/fotonauts/MongoHub-Mac |
+| MongoVision | | https://code.google.com/p/mongo-vision/ |
+| mongovue | http://blog.mongovue.com/ | |
+| mViewer | | https://github.com/Imaginea/mViewer |
+| phpmoadmin | http://www.phpmoadmin.com/ | |
+| rockmongo | http://www.rockmongo.com/ | |
+| meclipse | | https://github.com/FlaPer87/meclipse |
+| humongous | | https://github.com/bagwanpankaj/humongous |
+| mongodb-oda-birt-plugin | | https://code.google.com/a/eclipselabs.org/p/mongodb-oda-birt-plugin/ |
+| mongobird | http://mongobird.citsoft.net/ | |
+| mongoowl | http://mongoowl.citsoft.net/ | |
+| Opricot-MongoConsole | | https://github.com/argon/Opricot-MongoConsole |
+| Nucleon Database Master | http://www.nucleonsoftware.com/ | |
+| mongodbpumper | http://www.spviewer.com/mongodbpumper.html | |
+| MongoMonitor | http://mariussoutier.com/products/mongodb-app.html | |
 
 
 see other:
