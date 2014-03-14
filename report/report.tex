@@ -1,0 +1,46 @@
+\documentclass[12pt, a4paper]{article}
+
+\usepackage{graphicx}
+\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+
+%encoding
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc} 
+\usepackage[english, russian]{babel} 
+
+%spacing
+\usepackage{setspace}
+\onehalfspacing
+\usepackage{indentfirst}
+
+%text borders
+\usepackage[top=20mm, bottom=20mm, left=20mm, right=10mm]{geometry}
+
+
+\begin{document}
+
+	\input{report_title.tex}
+	\setcounter{page}{2}
+
+	%Содержание
+	\tableofcontents
+	\clearpage
+
+	%Основная часть
+	\section{Введение}
+	\section{Аналитический раздел}
+	\subsection{Анализ предметной области}
+	\subsection{Жизненный цикл пользователей}
+	\subsection{Жизненный цикл заявки}
+	\subsection{Требования к системе}
+	\subsection{Анализ требований}
+	\section{Конструкторский раздел}
+	\subsection{Предметная область и схема БД}
+	\subsection{Выбор метода взаимодействия с БД}
+	\subsection{Схема БД}
+	\subsection{Реализация доступа к БД}
+	\subsubsection{Модель данных Entity Framework}
+	\subsubsection{Работа с Entity Framework}
+	\subsubsection{Паттерн ``Repositoty''}
+	\subsection{Авторизация в приложении}
+\end{document}
